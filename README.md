@@ -57,6 +57,12 @@ Budući da su tečajevi dvosmjerni, struktura podataka čuva i dohvaća tečajev
 ### Rukovanje Nedostajućim Podacima
 Ako nema dovoljno podataka za izračunavanje traženog tečaja, metoda vraća nulu.
 
+## Kako Pokrenuti
+
+1. Preuzmite ili klonirajte repozitorij.
+2. Kompajlirajte i pokrenite kod prema vašem razvojnom okruženju.
+3. Koristite priložene testne slučajeve za verifikaciju ispravnosti funkcionalnosti.
+
 ### Autori
 Matej Panić
 
